@@ -1,5 +1,4 @@
-## Heyoo everyone, welcome to by guide!
+## Hello , GIT
 
-- YO Anish here! 
 - I'm adding this from `future-name`
 
