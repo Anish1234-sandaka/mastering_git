@@ -1,5 +1,4 @@
-## Welcome to Git!
+## Hello , GIT
 
-- This is coming from `dev-anish`
 - I'm adding this from `future-name`
 
